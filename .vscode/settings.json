@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "vector": "cpp",
+        "xlocale": "cpp",
+        "map": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "random": "cpp"
+    }
+}
